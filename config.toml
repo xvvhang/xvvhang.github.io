@@ -1,0 +1,48 @@
+baseURL = 'https://xvhang.github.io'
+languageCode = 'en-us'
+title = 'HXU'
+theme = "smol"
+summaryLength = 5
+
+# Parameters
+[params]
+    subtitle = "Make life fulfilled."
+    dateFmt = "Mon.02.01.2006 15:04"
+    mainSections = ['blogs', 'podcasts', 'projects']
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "Blogs"
+        name = "Blogs"
+        url = "/blogs/"
+        weight = 1
+
+  [[menu.main]]
+	identifier = "Projects"
+	name = "Projects"
+	url = "/projects/"
+	weight = 3
+
+  [[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about"
+	weight = 4 
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/xvhang"
+        weight = 1 
+
+   [[menu.footer]]
+        name = "Twitter"
+        url = "https://twitter.com/xvhang"
+        weight = 2 
+
+   [[menu.footer]]
+        name = "Newsletter"
+        url = "https://www.getrevue.co/profile/xvhang"
+        weight = 3 
+

@@ -1,7 +1,7 @@
 ---
 title: "BLOG#001 The Journey Is the Reward"
 date: 2022-01-23T16:13:10+08:00
-draft: true
+draft: false
 ---
 
 Steve Jobs 在创造 Mac 的时候，经常带领团队成员到加州各个度假胜地举办集思会。所谓集思会，就是 Steve 以自己信奉一生的禅宗的方式，将自己的哲学传达给他的最优秀的员工们，以激励他们去创造伟大的产品。
